@@ -1,0 +1,7 @@
+Copy settings.py-dist to settings.py.
+
+You'll need a BOSS API key, place the key in settings.py
+
+This will tell you how similar your page titles are for a given site.
+
+This depends on BOSS which may be going away thanks to the Microsoft deal :(
